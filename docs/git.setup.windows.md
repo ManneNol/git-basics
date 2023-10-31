@@ -1,5 +1,4 @@
-
-### Windows
+## Windows
 1. [Download](https://git-scm.com/) the git installer for windows
 2. Select the settings you wish to use, recommendations are: 
     - add git bash profile to terminal
